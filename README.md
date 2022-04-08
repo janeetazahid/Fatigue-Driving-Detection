@@ -18,5 +18,5 @@ The program also detects when the eyes are closed for a long period and when the
 
 
 
-#### Running Code
+### Running Code
 To run the code, run the fatigue_detect.py file. The file can be run with an addtional argument "-p path_to_video_file" or by default it will run on the webcam
