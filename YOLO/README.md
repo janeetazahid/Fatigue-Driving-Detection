@@ -2,3 +2,5 @@
 Training was done in Google Colab which provides a built in GPU to speed up the process 
 
 [train_YOLO.py](train_YOLO.py): contains the python code used to train the YOLO model 
+[utils](utils): contains the python code that was used for preprocessing data 
+[config](config): contains the configuration files for the YOLO model 
