@@ -1,4 +1,5 @@
 ## This folder contains the code and files associated with the LSTM model that detects the drivers fatigue 
+Training was done in Google Colab
 
 [model_dense300](model_dense300): Final LSTM model <br>
 [LSTM_200.xlsx](LSTM_200.xlsx): Data used to train the model <br>
