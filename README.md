@@ -16,9 +16,29 @@ The program also detects when the eyes are closed for a long period and when the
 [result.avi](result.avi): Sample output result  <br>
 [vid2.avi](vid2.avi): Sample video to perform detection on <br>
 
-**Libraries:** Keras, Tensorflow, CV2, numpy
+## TechStack
+-Keras
+-Tensorflow
+-CV2
+-Numpy
 
 
 ## Running Code
-To run the code, run the fatigue_detect.py file. The file can be run with an addtional argument "-p path_to_video_file" or by default it will run on the webcam
+
+1. Clone repo
+```
+$ git clone https://github.com/janeetazahid/Fatigue-Driving-Detection.git
+```
+
+2. Install the required libraries by running the following command
+```
+pip install -r requirements.txt
+```
+
+3. Begin the fatigue detection by running the following command 
+```
+python fatigue_detect.py -p "vid2.avi"
+```
+
+Any path for a video file can be supplied after the -p argument. If no path is supplied the webcam will be used 
 
