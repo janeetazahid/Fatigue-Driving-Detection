@@ -1,6 +1,10 @@
 # Fatigue Driving Detection
-This project aims to predict the level of fatigue of a driver using deep learning. The eyes and mouth of the driver are used as features and thier state (open or closed) is detected by a **YOLO** model. 
-The count of how long the eyes are closed and mouth is open is fed into an **LSTM** model which outputs the level of the drivers fatigue (low, meduim, or high) 
+This project aims to predict the level of fatigue of a driver using deep learning. 
+
+## Features 
+
+The eyes and mouth of the driver are used as features and thier state (open or closed) is detected by a **YOLO** model. 
+The count of how long the eyes are closed and mouth is open is fed into an **LSTM** model which outputs the level of the drivers fatigue (low, meduim, or high). 
 The program also detects when the eyes are closed for a long period and when the driver is yawning using two LSTM models 
 
 
