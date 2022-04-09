@@ -16,9 +16,9 @@ The program also detects when the eyes are closed for a long period and when the
 [result.avi](result.avi): Sample output result  <br>
 [vid2.avi](vid2.avi): Sample video to perform detection on <br>
 
+*Libraries:* Keras, Tensorflow, CV2, numpy
 
 
 ## Running Code
 To run the code, run the fatigue_detect.py file. The file can be run with an addtional argument "-p path_to_video_file" or by default it will run on the webcam
 
-_Libraries:_ Keras, Tensorflow, CV2, numpy
