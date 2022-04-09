@@ -1,5 +1,4 @@
 # Fatigue-Driving-Detection
-Computer Engineering Capstone Project. <br>
 This project aims to predict the level of fatigue of a driver using deep learning. <br>
 The eyes and mouth of the driver are used as features and thier state (open or closed) is detected by a YOLO model. <br>
 The count of how long the eyes are closed and mouth is open is fed into an LSTM model which outputs the level of the drivers fatigue (low, meduim, or high) <br>
@@ -19,5 +18,7 @@ The program also detects when the eyes are closed for a long period and when the
 
 
 
-### Running Code
+# Running Code
 To run the code, run the fatigue_detect.py file. The file can be run with an addtional argument "-p path_to_video_file" or by default it will run on the webcam
+
+_Libraries:_ Keras, Tensorflow, CV2, numpy
