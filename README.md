@@ -1,6 +1,6 @@
 # Fatigue Driving Detection
 ![Python](https://img.shields.io/badge/python-v3.6+-blue.svg) ![License](https://img.shields.io/badge/license-GNU-green.svg) ![YOLO](https://img.shields.io/badge/Model-YOLO-blue.svg) ![LSTM](https://img.shields.io/badge/Model-LSTM-blue.svg) ![Keras](https://img.shields.io/badge/Library-Keras-red.svg) ![CV2](https://img.shields.io/badge/Library-opencv-red.svg)<br>
-This project aims to predict the level of fatigue of a driver using deep learning. 
+This project aims to use biological indicators of fatigue along with computer vision to detect a drivers fatigue level. 
 
 ## Features 
 
