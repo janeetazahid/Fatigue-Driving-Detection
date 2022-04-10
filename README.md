@@ -1,4 +1,5 @@
 # Fatigue Driving Detection
+![Python](https://img.shields.io/badge/python-v3.6+-blue.svg)
 This project aims to predict the level of fatigue of a driver using deep learning. 
 
 ## Features 
